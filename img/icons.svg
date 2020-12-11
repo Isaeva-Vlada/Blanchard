@@ -1,0 +1,17 @@
+<svg width="0" height="0" class="hidden">
+
+  <symbol xmlns="http://www.w3.org/2000/svg" id="enter">
+    <path d="M5.12 9.093l1.02 1.017L9.75 6.5 6.139 2.889 5.12 3.907l1.863 1.87H0v1.445h6.984L5.12 9.092zM11.557 0H1.444C.643 0 0 .65 0 1.444v2.89h1.444v-2.89h10.112v10.112H1.444v-2.89H0v2.89C0 12.35.643 13 1.444 13h10.112C12.35 13 13 12.35 13 11.556V1.444C13 .65 12.35 0 11.556 0z"></path>
+  </symbol>
+
+
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 22" id="search">
+    <path d="M4.938 15.653L0 20.427l1.234 1.194 4.938-4.774z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.097 18c-4.567 0-8.1-3.677-8.1-8s3.533-8 8.1-8c4.566 0 8.1 3.677 8.1 8s-3.534 8-8.1 8zm0 2c-5.523 0-10-4.477-10-10s4.477-10 10-10 10 4.477 10 10-4.477 10-10 10z"></path>
+  </symbol>
+
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 11" id="arrow">
+    <path d="M11 5l-5 5-5-5"></path>
+  </symbol>
+
+</svg>
